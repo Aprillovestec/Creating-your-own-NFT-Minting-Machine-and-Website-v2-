@@ -8,4 +8,5 @@ solana-keygen pubkey ./keypair.json
 
 
 
-keypair.json
+3. keypair.json
+4. input your keypair generated
