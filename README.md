@@ -7,5 +7,5 @@ solana-keygen pubkey ./keypair.json
 2. install Metaplex Candy Machine v2
 
 
-5NBm3GvHrazpn73hhJXPmUSGYCpqLskfjrdpwgXxCxi9
+
 keypair.json
